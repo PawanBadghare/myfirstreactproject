@@ -5,7 +5,7 @@ function Pawan() {
     <div>
         <table>
       <tr>
-        <th>Company</th>
+        <th>Company test</th>
         <th>Contact</th>
         <th>Country</th>
         </tr>
