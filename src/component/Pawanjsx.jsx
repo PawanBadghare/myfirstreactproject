@@ -10,7 +10,7 @@ function Pawan() {
         <th>Country</th>
         </tr>
         <tr>
-            <td>Alfrends Futterkiste</td>
+            <td> Futterkiste</td>
             <td>Maria Anders</td>
             <td>Germany</td>
             </tr>
