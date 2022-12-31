@@ -2,25 +2,18 @@ import React from 'react'
 
 function Pawan() {
   return (
-    <div>
-        <table>
-      <tr>
-        <th>Company test</th>
-        <th>Contact</th>
-        <th>Country</th>
-        </tr>
-        <tr>
-            <td> Futterkiste</td>
-            <td>Maria Anders</td>
-            <td>Germany</td>
-            </tr>
-            <tr>
-              <td>Centro Comerial Moctezuma</td>
-             <td>francico Chng</td>
-             <td>Mexico</td> 
-             </tr>
-        </table>
-    </div>
+  <div>
+    <i>-italic text </i>
+    <sup>-super text</sup>
+    <sub>-subscript text</sub>
+    <small>-small text</small>
+    <del>-deleted text</del>
+    <p> rich dad poor dad book bigerst seller book in world</p>
+    <h1>css is course in html 2022</h1>
+    <h2>-css is course in html 2022</h2>
+    <h3>-css is course in html 2022</h3>
+
+  </div>
   )
     }
 
