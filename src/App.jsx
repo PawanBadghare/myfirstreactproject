@@ -1,6 +1,8 @@
 import React, { Fragment } from 'react'
-import Pawan from './component/Pawanjsx';
+import Pawanjsx from './component/Pawanjsx';
+// import Pawan from './component/Pawanjsx';
 const App = () => {
+  console.log("hi")
 //   const [state, setState] =useState(0);
 // const[count,setCount]=useState(0)
   return (
@@ -9,7 +11,8 @@ const App = () => {
     {/* <button className='pawan' id='pawan2' onClick={() => {setState(state+10)}}>
     {state}
     </button> */}
-    <Pawan />
+    <Pawanjsx />
+    {/* <Pawan /> */}
     {/* <button className='tend' id='tend2'onClick={()=> {setCount(count-20)}}>{count}</button> */}
     {/* <input type='text' /> */}
     </Fragment>

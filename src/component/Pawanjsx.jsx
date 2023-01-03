@@ -1,25 +1,15 @@
-import React from 'react'
+import React from 'react';
 
-function Pawan() {
+const Pawanjsx = () => {
   return (
-  <div>
-    <i>-italic text </i>
-    <sup>-super text</sup>
-    <sub>-subscript text</sub>
-    <small>-small text</small>
-    <del>-deleted text</del>
-    <p> rich dad poor dad book bigerst seller book in world <b>robet.t kiyushaki</b></p>
-    <h1 style={{color: "blue"}}>css is course in html 2022</h1>
-    <h2>-css is course in html 2022</h2>
-    <h3>-css is course in html 2022</h3>
-     <h4>-css is course in html 2020</h4>
-     <h5>-css is course in html 2022</h5>
-     <h6>-css is course in html2022</h6>
-     <p>H <sub>2</sub> O</p>
-     <p>x<sup>2</sup>+V</p>
-     <button>onClick Event Listener</button>
-  </div>
+    <div>
+        <h1 style={{backgroundColor:'blue', color: 'red'}}>Try It </h1>
+        <div style={{background:"green",height:'400px', width: '400x'}}>fharuk bhai</div>
+        <div style={{background:'yellow',height:'600px',width:'600px'}}>
+         <h2 style={{color:'skyblue'}}>fharuk bhai part2</h2>  
+        </div>
+    </div>
   )
-    }
+}
 
-export default Pawan;
+export default Pawanjsx;
