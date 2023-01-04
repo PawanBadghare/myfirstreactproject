@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 import Pawanjsx from './component/Pawanjsx';
+import Reactext3 from './component/React';
 // import Pawan from './component/Pawanjsx';
 const App = () => {
   console.log("hi")
@@ -11,6 +12,7 @@ const App = () => {
     {/* <button className='pawan' id='pawan2' onClick={() => {setState(state+10)}}>
     {state}
     </button> */}
+    <Reactext3></Reactext3>
     <Pawanjsx />
     {/* <Pawan /> */}
     {/* <button className='tend' id='tend2'onClick={()=> {setCount(count-20)}}>{count}</button> */}
