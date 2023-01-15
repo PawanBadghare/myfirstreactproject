@@ -1,6 +1,9 @@
-.teacher-div{
+.teacher-main-div{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: blue;
+    padding-right: 200px;
+    margin-bottom: 200px;
 
 }

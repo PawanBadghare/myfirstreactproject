@@ -1,16 +1,16 @@
 import React from 'react'
-import '../component/style/Badghare.css';
+// import '../component/style/Badghare.css';
 import Dog from '../assets/One.jpg'
 const Badghare = () => {
   return (
-    <div className='Badghare-div'> 
-     <Display>  </Display>   
+    <div > 
+      <h1>mesages</h1>
      <p>All types of practical book available</p>    
-     <h1>mesages</h1>
-     <img src={Dog} alt='img'/>
-     <img src={Dog} alt='img'/>
+     {/* <div className='Badghare-div'> */}
      <button> on click</button>
-     <button> on clicl top</button>   
+     <button> on clicl top</button>
+     {/* </div>  */}
+     <img src={Dog} alt='img'/>
     </div>
   )
 }

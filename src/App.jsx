@@ -1,11 +1,11 @@
 import React, { Fragment } from 'react'
-import { Badghare } from './component/Badghare';
-import Pawanjsx from './component/Pawanjsx';
-import Reactext3 from './component/React';
+import Badghare from './component/Badghare';
+// import Pawanjsx from './component/Pawanjsx';
+// import Reactext3 from './component/React';
 import Teacher from './component/Teacher';
-import Test from './component/test';
-import Reactext4 from './component/test';
-import Pawa3 from './pawan2/Pawa3';
+// import Test from './component/test';
+// import Reactext4 from './component/test';
+// import Pawa3 from './pawan2/Pawa3';
 // import Pawan from './component/Pawanjsx';
 const App = () => {
 //   const [state, setState] =useState(0);
@@ -19,7 +19,7 @@ const App = () => {
     {/* <Reactext3></Reactext3> */}
     {/* <Pawanjsx /> */}
     <Teacher></Teacher>
-    {/* <Badghare></Badghare> */}
+    <Badghare></Badghare>
     {/* <Pawa3></Pawa3> */}
     {/* <Test></Test> */}
     {/* <Pawan /> */}
