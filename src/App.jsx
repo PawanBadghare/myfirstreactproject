@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 import { Badghare } from './component/Badghare';
 import Pawanjsx from './component/Pawanjsx';
 import Reactext3 from './component/React';
+import Teacher from './component/Teacher';
 import Test from './component/test';
 import Reactext4 from './component/test';
 import Pawa3 from './pawan2/Pawa3';
@@ -16,10 +17,11 @@ const App = () => {
     {state}
     </button> */}
     {/* <Reactext3></Reactext3> */}
-    <Pawanjsx />
-    <Badghare></Badghare>
+    {/* <Pawanjsx /> */}
+    <Teacher></Teacher>
+    {/* <Badghare></Badghare> */}
     {/* <Pawa3></Pawa3> */}
-    <Test></Test>
+    {/* <Test></Test> */}
     {/* <Pawan /> */}
     {/* <button className='tend' id='tend2'onClick={()=> {setCount(count-20)}}>{count}</button> */}
     {/* <input type='text' /> */}

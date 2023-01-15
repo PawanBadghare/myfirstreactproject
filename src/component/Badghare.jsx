@@ -1,16 +1,20 @@
 import React from 'react'
-import Dog from "../assets/One.jpg";
-import Video from '../assets/coffee.mp4';
-
-export const Badghare = () => {
+import '../component/style/Badghare.css';
+import Dog from '../assets/One.jpg'
+const Badghare = () => {
   return (
-    <div>
-        <img src={Dog} alt="Dog"></img>
-        <p>smiling dog</p>
-        <button> on click</button>
-        <video width="320" height="240"controls src={Video}> 
-        </video>
+    <div className='Badghare-div'> 
+     <Display>  </Display>   
+     <p>All types of practical book available</p>    
+     <h1>mesages</h1>
+     <img src={Dog} alt='img'/>
+     <img src={Dog} alt='img'/>
+     <button> on click</button>
+     <button> on clicl top</button>   
     </div>
   )
 }
+
+export default Badghare
+
 
