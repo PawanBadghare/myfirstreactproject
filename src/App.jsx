@@ -20,6 +20,7 @@ const App = () => {
     {/* <Pawanjsx /> */}
     <Teacher></Teacher>
     <Badghare></Badghare>
+    <pbadghare></pbadghare>
     {/* <Pawa3></Pawa3> */}
     {/* <Test></Test> */}
     {/* <Pawan /> */}
