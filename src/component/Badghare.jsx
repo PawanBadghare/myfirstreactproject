@@ -8,7 +8,6 @@ const Badghare = () => {
      <p>All types of practical book available</p>    
      {/* <div className='Badghare-div'> */}
      <button> on click</button>
-     <button> on clicl top</button>
      {/* </div>  */}
      <img src={Dog} alt='img'/>
     </div>
