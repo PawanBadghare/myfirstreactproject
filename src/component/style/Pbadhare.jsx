@@ -7,6 +7,8 @@ const Pbadhare = () => {
   <h2>V.R.PRODUCTS</h2>
   <button>on click</button>
   <sup>V.R.PRODUCTS</sup>
+  <small> price</small>
+  <Image>Dog</Image>
 
     </div>
   )
