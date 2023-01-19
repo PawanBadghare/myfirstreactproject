@@ -10,6 +10,7 @@
     font-weight: 900;
     font-family: 'Times New Roman', Times, serif;
     font-style:  inherit;
-
+    flex: 0em;
+    padding-block-start: 21px; 
 
 }
