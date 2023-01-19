@@ -1,14 +1,12 @@
-import React from 'react'
-import {text,view} from'react-nagative';
-import {Header} from './Header';
-import {heading} from './Typography'
-const amar = () => {
+import React from 'react';
+const Amar = () => {
   return (
     <div>
-    <Header title='welcome to react native'/>
-    <text style={heading}></text>
+    <text className=''> the pawan mohahn badghare</text>
+    <p> book best in my life</p>
+
     </div>
   )
 }
 
-export default amar
+export default Amar;

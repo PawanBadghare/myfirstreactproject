@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 import Badghare from './component/Badghare';
+import Amar from './component/style/amar';
 // import Pawanjsx from './component/Pawanjsx';
 // import Reactext3 from './component/React';
 import Teacher from './component/Teacher';
@@ -18,8 +19,9 @@ const App = () => {
     </button> */}
     {/* <Reactext3></Reactext3> */}
     {/* <Pawanjsx /> */}
-    <Teacher></Teacher>
-    <Badghare></Badghare>
+    <Amar></Amar>
+    {/* <Teacher></Teacher>
+    <Badghare></Badghare> */}
     <pbadghare></pbadghare>
     {/* <Pawa3></Pawa3> */}
     {/* <Test></Test> */}
