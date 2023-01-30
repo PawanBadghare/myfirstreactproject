@@ -20,6 +20,8 @@ const App = () => {
     {/* <Reactext3></Reactext3> */}
     {/* <Pawanjsx /> */}
     <Amar></Amar>
+    <pote></pote>
+    
     {/* <Teacher></Teacher>
     <Badghare></Badghare> */}
     <pbadghare></pbadghare>
